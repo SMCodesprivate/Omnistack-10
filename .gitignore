@@ -1,0 +1,5 @@
+.git
+backend/node_modules
+backend/private/bd.js
+frontend/node_modules
+mobile/node_modules
